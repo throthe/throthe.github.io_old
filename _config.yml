@@ -17,9 +17,10 @@ title: My Blog
 description: >- # this means to ignore newlines until "baseurl:"
 Helping you learn more about moving into Agile, Continuous Delivery and DevOps with help, 
 tips and advices for creating practices to increase agility and deliver solutions better, 
-quicker and safer. I blog about my experiences in agile environments and focus on "how" 
-you should do it rather thentelling you "what" you should do and and some personal thoughts 
+quicker and safer. I blog about my experiences in agile environments and focus on 'how' 
+you should do it rather thentelling you 'what' you should do and and some personal thoughts 
 like the touch of salt.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: th_rothe
