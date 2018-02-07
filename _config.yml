@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: My Blog
-description:
-Helping you learn more about moving into Agile, Continuous Delivery and DevOps with help, 
+description: Helping you learn more about moving into Agile, Continuous Delivery and DevOps with help, 
 tips and advices for creating practices to increase agility and deliver solutions better, 
 quicker and safer. I blog about my experiences in agile environments and focus on 'how' 
 you should do it rather thentelling you 'what' you should do and and some personal thoughts 
