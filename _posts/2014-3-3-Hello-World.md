@@ -2,7 +2,7 @@
 layout: post
 title: You're up and running!
 ---
-![image-title-here](/images/1.jpg){:class="img-responsive"}
+![image-title-here](/images/1.png){:class="img-responsive"}
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
