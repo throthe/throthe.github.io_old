@@ -6,7 +6,10 @@
 name: Thomas Rothe
 
 # Short bio or description (displayed in the header)
-description: Helping you learn more about moving into Agile, Continuous Delivery and DevOps with help, tips and advices for creating practices to increase agility and deliver solutions better, quicker and safer. I blog about my experiences in agile environments and focus on 'how' you should do it rather thentelling you 'what' you should do and and some personal thoughts like the touch of salt.
+description: Helping you learn more about moving into Agile, Continuous Delivery and DevOps
+# with help, tips and advices for creating practices to increase agility and deliver solutions better, 
+# quicker and safer. I blog about my experiences in agile environments and focus on 'how' you should do 
+# it rather thentelling you 'what' you should do and and some personal thoughts like the touch of salt.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/29562185?s=460&v=4
